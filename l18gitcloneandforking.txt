@@ -14,5 +14,22 @@ got to repo
 click > add file > create new file > Cancel Chnage
 
 =>Delete Fork Repositry
-
 madi > repositry > setting > Danger zone > Delete repositry
+
+
+
+=>inviting Collabrators
+dlt account > gitbblesson2 > Setting >Collabarators > Add people . tinhutaung.dlt@gmail.com
+
+=>Join/Accept Account
+kotha account > profile log > Your Organization > Join > Acept inviation
+
+
+=>Add  New File from pc
+file0.txt
+
+git status
+git add file0.txt
+git commit -m "A file0 from adam by pc"
+git oush -u origin main
+
