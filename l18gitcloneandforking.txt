@@ -1,0 +1,5 @@
+mkdir
+
+git init
+git status
+git remote add origin git@github.com:Adam26114/githublesson2.git
