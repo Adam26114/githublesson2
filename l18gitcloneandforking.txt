@@ -2,4 +2,17 @@ mkdir
 
 git init
 git status
-git remote add origin git@github.com:Adam26114/githublesson2.git
+git remote add origin git@github.com:Adam26114/githublesson2.git add index.html
+git status
+git commit -m "A index.html"
+
+git push -u origin main
+
+=>Foking
+madi > dit
+got to repo
+click > add file > create new file > Cancel Chnage
+
+=>Delete Fork Repositry
+
+madi > repositry > setting > Danger zone > Delete repositry
