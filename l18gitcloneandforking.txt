@@ -33,3 +33,12 @@ git add file0.txt
 git commit -m "A file0 from adam by pc"
 git oush -u origin main
 
+=Updata File 0 from pc
+dlt account
+file0.txt
+write down = this is new post 1
+
+git status
+git add file0.txt
+git commit -m "M"
+git push -u origin main
