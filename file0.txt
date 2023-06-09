@@ -1,1 +1,2 @@
-i am file 0
+Hello i am file 0
+This is new post 1
